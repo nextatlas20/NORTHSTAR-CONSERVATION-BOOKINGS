@@ -1,0 +1,7 @@
+service_date=2096-04-18
+units=4
+valid_requests=9
+accepted=7
+rejected=2
+accepted_minutes=420
+conflict_rows=2
