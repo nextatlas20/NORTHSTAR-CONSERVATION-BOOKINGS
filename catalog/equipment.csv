@@ -1,0 +1,5 @@
+unit_id,label,location,display_rank
+CRYO-1,Cryogenic freezer,North Annex,1
+DRY-2,Drying cabinet,Textiles Lab,2
+XRAY-4,X-ray bay,Imaging Suite,3
+VAULT-7,Anoxia vault,East Store,4

@@ -1,0 +1,4 @@
+Northstar Museum conservation booking intake
+Window: 2096-04-18 UTC
+Capacity: one object per equipment unit
+Source exports are immutable after sealing.
